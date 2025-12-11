@@ -11,7 +11,7 @@ CONFIG = {
     "URL": "https://www.playthroneandliberty.com/en-us/support/server-status",
     "XPATH": '//span[contains(@class, "server-item-label") and contains(@aria-label, "Sunstorm")]',
     # --- 新增：企业微信机器人配置 ---
-    "WECHAT_WEBHOOK_URL": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=96304f31-31e3-4a86-b03a-f8fdaae63e63",
+    "WECHAT_WEBHOOK_URL": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=",
 
     # <--- 【重要】替换成你的Webhook地址
     # --------------------------------
